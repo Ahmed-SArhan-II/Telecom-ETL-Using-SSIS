@@ -70,7 +70,6 @@ Tables involved:
 ## 📌 Developer
 
 **Eng. Ahmed Youssef**  
-
      ETL Developer & Data Engineer  
      Computer Science Student – Misr Higher Institute  
      Participant in the Digital Egypt Pioneers Initiative
