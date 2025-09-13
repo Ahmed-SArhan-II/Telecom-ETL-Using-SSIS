@@ -67,7 +67,7 @@ Tables involved:
 4. Verify data in `telecom_transaction` and error tables  
 5. Review `error_source_output` for file-level error tracking  
 
-## 📌 Author
+## 📌 Developer
 
 **Eng. Ahmed Youssef**  
      ETL Developer & Data Engineer  
